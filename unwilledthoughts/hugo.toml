@@ -1,0 +1,5 @@
+baseURL = 'https://unwilledthoughts.github.io/'
+languageCode = 'en-us'
+title = 'Unwilled Thoughts'
+
+theme = "Ardeidae"

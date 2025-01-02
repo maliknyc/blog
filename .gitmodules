@@ -1,0 +1,4 @@
+[submodule "unwilledthoughts/public"]
+	path = unwilledthoughts/public
+	url = https://github.com/maliknyc/unwilledthoughts.github.io.git
+	branch = main
